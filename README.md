@@ -26,7 +26,7 @@
 
 ## 📫 Connect with Me
 
-- LinkedIn: [[Your LinkedIn](#) ](https://www.linkedin.com/in/muhammad-saqib-2273a337b ) ]
+- LinkedIn: (https://www.linkedin.com/in/muhammad-saqib-2273a337b ) ]
 - YouTube: [https://www.youtube.com/@ByteBlitzPk] 
 - GitHub: [github.com/MuhammadSaqibKakar](https://github.com/MuhammadSaqibKakar)  
 
