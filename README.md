@@ -1,35 +1,74 @@
 # Hi 👋, I'm Muhammad Saqib Kakar
 
-🎓 Final-year Software Engineering student at BUITEMS, Quetta  
-💻 Aspiring DevOps & Cloud Engineer | Building projects in Python, Linux, Containerization, and Cloud technologies  
-📚 Passionate about automation, CI/CD, and scalable cloud solutions  
+🎓 **Software Engineering graduate from BUITEMS, Quetta — July 2026**  
+💼 **Software Engineer | Web Developer | IT Support | Data Analyst**  
+📍 Quetta, Pakistan  
+
+I build practical web applications, internal management systems, dashboards, reporting tools, and data-driven solutions. I currently work with **BSDI**, where I have developed and supported live digital platforms used for project monitoring, reporting, and organizational workflows.
 
 ---
 
-## 🔧 Skills
+## 💼 Experience
 
-- **Programming & Scripting:** Python, Bash, C  
-- **DevOps & Automation Tools:** Docker, Kubernetes, Jenkins, Ansible, Terraform, Git, CI/CD pipelines  
-- **Cloud Platforms:** AWS, Microsoft Azure, Google Cloud Platform (GCP)  
-- **Operating Systems:** Linux (Ubuntu, CentOS), Windows  
+### Balochistan Special Development Initiative (BSDI)
+**Web Developer | IT Support | Data Analyst**  
+*January 2026 – Present*
+
+- Develop and maintain web-based internal systems and live project platforms.
+- Support organizational IT operations, reporting workflows, and project data management.
+- Work with project information across districts to improve documentation, monitoring, and reporting.
+- Built digital systems for BSDI/BSDP project monitoring and reporting, including the Pasni Road project platform.
+
+### Code Solutionist
+**Software Engineer Intern / Web Developer & Designer**  
+*September 2026 – December 2026*
+
+- Worked on web development and interface/design tasks during a three-month internship.
 
 ---
 
-## 💼 Projects & Learning
+## 🚀 Selected Projects
 
-- Containerized applications using Docker and deployed on local and cloud environments  
-- Built CI/CD pipelines using GitHub Actions and Jenkins  
-- Deployed sample web apps on AWS EC2 and configured Nginx servers  
-- Practicing Infrastructure as Code with Terraform and Ansible  
+### BSDI Completed Projects Dashboard
+A web-based platform for managing and presenting completed development-project information, district-level data, media, reports, and dashboards.
+
+### Pasni Road Project Controls & Monitoring Platform
+A project monitoring and reporting system developed for BSDI/BSDP workflows, including progress tracking, planned-vs-actual analysis, reporting, and project-control information.
+
+### Smart Dairy ERP
+An ERP-style dairy farm management and sales automation system developed as an academic software engineering project.
+
+### Learnova
+A role-based learning platform with workflows for administrators, parents, and children, including authentication, dashboards, quizzes, and progress tracking.
+
+---
+
+## 🏅 Certifications
+
+- AWS Cloud Practitioner Essentials — AWS Training & Certification
+- Linux Essentials — Cisco Networking Academy / NDG
+- Linux Unhatched — Cisco Networking Academy / NDG
+- Python Essentials 1 & 2 — Cisco Networking Academy / Python Institute
+- Git Training — Simplilearn SkillUp
+- Introduction to Python — SoloLearn
+
+---
+
+## 🎓 Education
+
+**BS Software Engineering — BUITEMS, Quetta**  
+Graduated: **July 2026**  
+CGPA: **3.50 / 4.00**
 
 ---
 
 ## 📫 Connect with Me
 
-- LinkedIn: (https://www.linkedin.com/in/muhammad-saqib-2273a337b ) ]
-- YouTube: [https://www.youtube.com/@ByteBlitzPk] 
-- GitHub: [github.com/MuhammadSaqibKakar](https://github.com/MuhammadSaqibKakar)  
+- 🌐 Portfolio: [muhammadsaqibkakar.github.io/Muhammad_Saqib_Portfolio](https://muhammadsaqibkakar.github.io/Muhammad_Saqib_Portfolio/)
+- 💼 LinkedIn: [Muhammad Saqib](https://www.linkedin.com/in/muhammad-saqib-2273a337b/)
+- 💻 GitHub: [MuhammadSaqibKakar](https://github.com/MuhammadSaqibKakar)
+- 📧 Email: muhummadsaqibkakar@gmail.com
 
 ---
 
-> "Continuous learning and hands-on practice are the keys to mastery in DevOps and Cloud engineering."  
+> Building practical software solutions with a focus on real-world impact, reliability, and continuous learning.
