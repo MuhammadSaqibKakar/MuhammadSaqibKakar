@@ -1,47 +1,65 @@
-# Hi 👋, I'm Muhammad Saqib Kakar
+# Muhammad Saqib Kakar
 
-🎓 **Software Engineering graduate from BUITEMS, Quetta — July 2026**  
-💼 **Software Engineer | Web Developer | IT Support | Data Analyst**  
-📍 Quetta, Pakistan  
+**Software Engineer · Backend Developer · Web Developer · Data & IT Systems**  
+📍 Quetta, Pakistan
 
-I build practical web applications, internal management systems, dashboards, reporting tools, and data-driven solutions. I currently work with **BSDI**, where I have developed and supported live digital platforms used for project monitoring, reporting, and organizational workflows.
+I’m a Software Engineering graduate from **BUITEMS, Quetta** with hands-on experience building web applications, backend services, internal dashboards, reporting systems, and data-driven tools. I enjoy turning operational problems into reliable software that is practical, maintainable, and easy to use.
 
----
+## 👨‍💻 About Me
+
+- 💼 Working with **Balochistan Special Development Initiative (BSDI)** across web development, IT support, reporting, and data workflows
+- 🎓 **BS Software Engineering**, BUITEMS — CGPA **3.50 / 4.00**
+- 🧠 Interested in **Backend Engineering, APIs, Cloud, DevOps, Linux, Cybersecurity, and Data Systems**
+- 🚀 Building software products and Android apps under **ByteBlitz Tech**
+- 🛠️ Comfortable working across development, deployment, troubleshooting, automation, and technical reporting
+
+## 🧰 Technical Stack
+
+**Languages**  
+JavaScript · TypeScript · Python · C# · SQL · Dart · HTML · CSS
+
+**Backend & APIs**  
+Node.js · Express.js · ASP.NET Core · REST APIs · MySQL · MongoDB · Prisma · Firebase
+
+**Frontend & Mobile**  
+React · Next.js · Flutter · Bootstrap · Tailwind CSS
+
+**Data & Reporting**  
+Excel · Power BI · Google Sheets · SQL · Data Cleaning · Validation · Reporting · Basic GIS
+
+**Tools & Platforms**  
+Git · GitHub · Linux · Docker · Hostinger · VS Code · Android Studio
+
+## 🚀 Selected Public Projects
+
+### [Quetta Transport Optimizer](https://github.com/MuhammadSaqibKakar/QuettaTransportOptimizer)
+Python-based graph and routing project using Quetta locations to demonstrate BFS, DFS, Dijkstra, dynamic routing, vehicle scheduling, TSP, and VRP concepts.
+
+### [Smart Dairy ERP — Firebase Edition](https://github.com/MuhammadSaqibKakar/SmartDairyERPFirebase)
+Flutter-based dairy farm management and sales automation project covering operational workflows, dashboards, and structured data handling.
+
+### [ByteBlitz Technologies](https://github.com/MuhammadSaqibKakar/ByteBlitzTechnologies)
+Modern business website built with Next.js, React, Tailwind CSS, Prisma, and MySQL.
+
+### [Personal Portfolio](https://github.com/MuhammadSaqibKakar/Muhammad_Saqib_Portfolio)
+My current portfolio website showcasing experience, projects, technical skills, and professional work.
 
 ## 💼 Experience
 
 ### Balochistan Special Development Initiative (BSDI)
-**Web Developer | IT Support | Data Analyst**  
+**Web Development · IT Support · Data Analysis**  
 *January 2026 – Present*
 
-- Develop and maintain web-based internal systems and live project platforms.
-- Support organizational IT operations, reporting workflows, and project data management.
-- Work with project information across districts to improve documentation, monitoring, and reporting.
-- Built digital systems for BSDI/BSDP project monitoring and reporting, including the Pasni Road project platform.
+- Build and maintain web-based tools and internal digital workflows
+- Support project reporting, data validation, dashboards, and technical operations
+- Work with district-level project information and structured reporting processes
+- Assist with deployment, troubleshooting, website management, and automation
 
 ### Code Solutionist
-**Software Engineer Intern / Web Developer & Designer**  
-*September 2026 – December 2026*
+**Software Engineering / Web Development Internship**
 
-- Worked on web development and interface/design tasks during a three-month internship.
-
----
-
-## 🚀 Selected Projects
-
-### BSDI Completed Projects Dashboard
-A web-based platform for managing and presenting completed development-project information, district-level data, media, reports, and dashboards.
-
-### Pasni Road Project Controls & Monitoring Platform
-A project monitoring and reporting system developed for BSDI/BSDP workflows, including progress tracking, planned-vs-actual analysis, reporting, and project-control information.
-
-### Smart Dairy ERP
-An ERP-style dairy farm management and sales automation system developed as an academic software engineering project.
-
-### Learnova
-A role-based learning platform with workflows for administrators, parents, and children, including authentication, dashboards, quizzes, and progress tracking.
-
----
+- Contributed to web development and interface implementation
+- Worked with practical development workflows and client-facing software tasks
 
 ## 🏅 Certifications
 
@@ -52,23 +70,12 @@ A role-based learning platform with workflows for administrators, parents, and c
 - Git Training — Simplilearn SkillUp
 - Introduction to Python — SoloLearn
 
----
+## 📫 Connect
 
-## 🎓 Education
-
-**BS Software Engineering — BUITEMS, Quetta**  
-Graduated: **July 2026**  
-CGPA: **3.50 / 4.00**
+- 🌐 **Portfolio:** https://muhammadsaqibkakar.github.io/Muhammad_Saqib_Portfolio/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-saqib-2273a337b/
+- 💻 **GitHub:** https://github.com/MuhammadSaqibKakar
 
 ---
 
-## 📫 Connect with Me
-
-- 🌐 Portfolio: [muhammadsaqibkakar.github.io/Muhammad_Saqib_Portfolio](https://muhammadsaqibkakar.github.io/Muhammad_Saqib_Portfolio/)
-- 💼 LinkedIn: [Muhammad Saqib](https://www.linkedin.com/in/muhammad-saqib-2273a337b/)
-- 💻 GitHub: [MuhammadSaqibKakar](https://github.com/MuhammadSaqibKakar)
-- 📧 Email: muhummadsaqibkakar@gmail.com
-
----
-
-> Building practical software solutions with a focus on real-world impact, reliability, and continuous learning.
+> Building practical software with a focus on reliability, automation, and real-world impact.
