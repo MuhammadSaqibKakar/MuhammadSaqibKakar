@@ -1,81 +1,47 @@
 # Muhammad Saqib Kakar
 
-**Software Engineer · Backend Developer · Web Developer · Data & IT Systems**  
-📍 Quetta, Pakistan
+**Software Engineer · Full-Stack Web Development · Backend Systems & Project Dashboards**
 
-I’m a Software Engineering graduate from **BUITEMS, Quetta** with hands-on experience building web applications, backend services, internal dashboards, reporting systems, and data-driven tools. I enjoy turning operational problems into reliable software that is practical, maintainable, and easy to use.
+📍 Quetta, Pakistan · Open to remote software engineering and project-based collaboration
 
-## 👨‍💻 About Me
+I'm a **BS Software Engineering graduate from BUITEMS, Quetta (2026)**, with a **CGPA of 3.501/4.00**. I work as a **Software Engineer with the Balochistan Special Development Initiative (BSDI)**, developing and supporting web applications, structured reporting systems, dashboards, and practical digital workflows.
 
-- 💼 Working with **Balochistan Special Development Initiative (BSDI)** across web development, IT support, reporting, and data workflows
-- 🎓 **BS Software Engineering**, BUITEMS — CGPA **3.50 / 4.00**
-- 🧠 Interested in **Backend Engineering, APIs, Cloud, DevOps, Linux, Cybersecurity, and Data Systems**
-- 🚀 Building software products and Android apps under **ByteBlitz Tech**
-- 🛠️ Comfortable working across development, deployment, troubleshooting, automation, and technical reporting
+My focus is straightforward: design maintainable software, solve real operational problems, and document work responsibly.
 
-## 🧰 Technical Stack
+## What I work on
 
-**Languages**  
-JavaScript · TypeScript · Python · C# · SQL · Dart · HTML · CSS
+- **Web applications & backend systems** — Node.js, JavaScript/TypeScript, C#, ASP.NET Core, API integration and relational databases.
+- **Project dashboards & reporting** — data validation, project-monitoring interfaces, structured reporting, and database-backed workflows.
+- **Application engineering** — responsive frontends, debugging, testing, deployment and maintenance.
+- **Mobile & automation** — Flutter/Dart, Python scripting and workflow automation.
 
-**Backend & APIs**  
-Node.js · Express.js · ASP.NET Core · REST APIs · MySQL · MongoDB · Prisma · Firebase
+## Selected professional projects
 
-**Frontend & Mobile**  
-React · Next.js · Flutter · Bootstrap · Tailwind CSS
+| Project | Focus | Case study |
+|---|---|---|
+| **BSDI Programme Website** | Public-sector web platform and programme information | [View case study](https://muhammadsaqibkakar.github.io/Muhammad_Saqib_Portfolio/projects.html#bsdi) |
+| **Pasni Road Project Controls** | ASP.NET Core / Razor Pages project-monitoring system | [View case study](https://muhammadsaqibkakar.github.io/Muhammad_Saqib_Portfolio/projects.html#pasni-road) |
+| **Khuzdar Airport Monitoring** | Node.js progress reporting and dashboards | [View case study](https://muhammadsaqibkakar.github.io/Muhammad_Saqib_Portfolio/projects.html#khuzdar-airport) |
+| **BSDI Completed Projects Portal** | Node.js / MySQL district-based project reporting | [View case study](https://muhammadsaqibkakar.github.io/Muhammad_Saqib_Portfolio/projects.html#completed-projects) |
 
-**Data & Reporting**  
-Excel · Power BI · Google Sheets · SQL · Data Cleaning · Validation · Reporting · Basic GIS
+Some operational projects have restricted deployments. Their portfolio case studies describe the engineering work without publishing private credentials, datasets, or access instructions.
 
-**Tools & Platforms**  
-Git · GitHub · Linux · Docker · Hostinger · VS Code · Android Studio
+## Tools & technologies
 
-## 🚀 Selected Public Projects
+`JavaScript` · `TypeScript` · `Node.js` · `ASP.NET Core` · `C#` · `HTML` · `CSS` · `SQL` · `MySQL` · `SQLite` · `Python` · `Flutter` · `Git` · `GitHub` · `Linux`
 
-### [Quetta Transport Optimizer](https://github.com/MuhammadSaqibKakar/QuettaTransportOptimizer)
-Python-based graph and routing project using Quetta locations to demonstrate BFS, DFS, Dijkstra, dynamic routing, vehicle scheduling, TSP, and VRP concepts.
+## Education & learning
 
-### [Smart Dairy ERP — Firebase Edition](https://github.com/MuhammadSaqibKakar/SmartDairyERPFirebase)
-Flutter-based dairy farm management and sales automation project covering operational workflows, dashboards, and structured data handling.
+- **Bachelor of Science in Software Engineering** — BUITEMS, Quetta · Graduated 2026 · **3.501/4.00 CGPA**
+- **Training:** AWS Cloud Practitioner Essentials, Cisco Python Essentials 1 & 2, Linux Essentials, Linux Unhatched, Networking Basics, and Git Training.
+- [View my degree and course certificates](https://muhammadsaqibkakar.github.io/Muhammad_Saqib_Portfolio/certificates.html)
 
-### [ByteBlitz Technologies](https://github.com/MuhammadSaqibKakar/ByteBlitzTechnologies)
-Modern business website built with Next.js, React, Tailwind CSS, Prisma, and MySQL.
+## Connect
 
-### [Personal Portfolio](https://github.com/MuhammadSaqibKakar/Muhammad_Saqib_Portfolio)
-My current portfolio website showcasing experience, projects, technical skills, and professional work.
-
-## 💼 Experience
-
-### Balochistan Special Development Initiative (BSDI)
-**Web Development · IT Support · Data Analysis**  
-*January 2026 – Present*
-
-- Build and maintain web-based tools and internal digital workflows
-- Support project reporting, data validation, dashboards, and technical operations
-- Work with district-level project information and structured reporting processes
-- Assist with deployment, troubleshooting, website management, and automation
-
-### Code Solutionist
-**Software Engineering / Web Development Internship**
-
-- Contributed to web development and interface implementation
-- Worked with practical development workflows and client-facing software tasks
-
-## 🏅 Certifications
-
-- AWS Cloud Practitioner Essentials — AWS Training & Certification
-- Linux Essentials — Cisco Networking Academy / NDG
-- Linux Unhatched — Cisco Networking Academy / NDG
-- Python Essentials 1 & 2 — Cisco Networking Academy / Python Institute
-- Git Training — Simplilearn SkillUp
-- Introduction to Python — SoloLearn
-
-## 📫 Connect
-
-- 🌐 **Portfolio:** https://muhammadsaqibkakar.github.io/Muhammad_Saqib_Portfolio/
-- 💼 **LinkedIn:** https://www.linkedin.com/in/muhammad-saqib-2273a337b/
-- 💻 **GitHub:** https://github.com/MuhammadSaqibKakar
+- 🌐 **Portfolio:** [Muhammad Saqib Kakar](https://muhammadsaqibkakar.github.io/Muhammad_Saqib_Portfolio/)
+- 💼 **LinkedIn:** [Professional profile](https://www.linkedin.com/in/muhammad-saqib-2273a337b/)
+- ✉️ **Project enquiries:** [Contact form](https://muhammadsaqibkakar.github.io/Muhammad_Saqib_Portfolio/contact.html)
 
 ---
 
-> Building practical software with a focus on reliability, automation, and real-world impact.
+*Building practical software with an emphasis on reliability, clarity, and responsible delivery.*
