@@ -1,4 +1,4 @@
-# Muhammad Saqib Kakar
+# Muhammad Saqib Kakar (Saqib Kakar)
 
 **Software Engineer · Full-Stack Web Development · Backend Systems & Project Dashboards**
 
@@ -19,10 +19,12 @@ My focus is straightforward: design maintainable software, solve real operationa
 
 | Project | Focus | Case study |
 |---|---|---|
-| **BSDI Programme Website** | Public-sector web platform and programme information | [View case study](https://muhammadsaqibkakar.github.io/Muhammad_Saqib_Portfolio/projects.html#bsdi) |
-| **Pasni Road Project Controls** | ASP.NET Core / Razor Pages project-monitoring system | [View case study](https://muhammadsaqibkakar.github.io/Muhammad_Saqib_Portfolio/projects.html#pasni-road) |
-| **Khuzdar Airport Monitoring** | Node.js progress reporting and dashboards | [View case study](https://muhammadsaqibkakar.github.io/Muhammad_Saqib_Portfolio/projects.html#khuzdar-airport) |
-| **BSDI Completed Projects Portal** | Node.js / MySQL district-based project reporting | [View case study](https://muhammadsaqibkakar.github.io/Muhammad_Saqib_Portfolio/projects.html#completed-projects) |
+| **The Haji Baba — Fragrances** | Custom Node.js e-commerce experience for a fragrance brand | [View case study](https://saqibkakar.com/Muhammad_Saqib_Portfolio/projects.html#haji-baba) |
+| **Bukhari Gift Shop** | Responsive gift catalogue and WhatsApp shopping enquiries | [View case study](https://saqibkakar.com/Muhammad_Saqib_Portfolio/projects.html#bukhari-gift-shop) |
+| **BSDI Programme Website** | Public-sector web platform and programme information | [View case study](https://saqibkakar.com/Muhammad_Saqib_Portfolio/projects.html#bsdi) |
+| **Pasni Road Project Controls** | ASP.NET Core / Razor Pages project-monitoring system | [View case study](https://saqibkakar.com/Muhammad_Saqib_Portfolio/projects.html#pasni-road) |
+| **Khuzdar Airport Monitoring** | Node.js progress reporting and dashboards | [View case study](https://saqibkakar.com/Muhammad_Saqib_Portfolio/projects.html#khuzdar-airport) |
+| **BSDI Completed Projects Portal** | Node.js / MySQL district-based project reporting | [View case study](https://saqibkakar.com/Muhammad_Saqib_Portfolio/projects.html#completed-projects) |
 
 Some operational projects have restricted deployments. Their portfolio case studies describe the engineering work without publishing private credentials, datasets, or access instructions.
 
@@ -34,13 +36,13 @@ Some operational projects have restricted deployments. Their portfolio case stud
 
 - **Bachelor of Science in Software Engineering** — BUITEMS, Quetta · Graduated 2026 · **3.501/4.00 CGPA**
 - **Training:** AWS Cloud Practitioner Essentials, Cisco Python Essentials 1 & 2, Linux Essentials, Linux Unhatched, Networking Basics, and Git Training.
-- [View my degree and course certificates](https://muhammadsaqibkakar.github.io/Muhammad_Saqib_Portfolio/certificates.html)
+- [View my degree and course certificates](https://saqibkakar.com/Muhammad_Saqib_Portfolio/certificates.html)
 
 ## Connect
 
-- 🌐 **Portfolio:** [Muhammad Saqib Kakar](https://muhammadsaqibkakar.github.io/Muhammad_Saqib_Portfolio/)
+- 🌐 **Official website:** [saqibkakar.com](https://saqibkakar.com/Muhammad_Saqib_Portfolio/)
 - 💼 **LinkedIn:** [Professional profile](https://www.linkedin.com/in/muhammad-saqib-2273a337b/)
-- ✉️ **Project enquiries:** [Contact form](https://muhammadsaqibkakar.github.io/Muhammad_Saqib_Portfolio/contact.html)
+- ✉️ **Project enquiries:** [Contact form](https://saqibkakar.com/Muhammad_Saqib_Portfolio/contact.html)
 
 ---
 
